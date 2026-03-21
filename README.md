@@ -18,6 +18,7 @@
 🎓 Computer Programming Student (**GPA: 3.91**)  
 🧠 Strong interest in **backend architecture & database design**  
 ⚡ Improving my **full-stack skills (JS + UI)**  
+💡 I enjoy designing systems with clean architecture and scalable structure  
 🎯 Goal: Become a **high-level Backend / Full Stack Developer**
 
 ---
@@ -53,9 +54,11 @@
 
 ✨ Financial tracking system with dashboard analytics  
 
-- Income & Expense tracking  
-- Interactive charts (Chart.js)  
-- Category & date filtering  
+✨ **Key Features:**
+- Income & Expense tracking with real-time updates  
+- Interactive financial dashboard (Chart.js)  
+- Advanced filtering (date & category)  
+- Structured relational database design  
 
 🔗 [Mini Financial Reporting System](https://github.com/MertcanKayirici/MiniFinansRaporlama)
 
@@ -65,9 +68,11 @@
 
 ✨ Dynamic portfolio system with admin panel  
 
-- Authentication system  
+✨ **Key Features:**
+- Authentication system with secure login  
 - Full CRUD operations  
-- Admin dashboard  
+- Dynamic admin dashboard  
+- Real-time content management  
 
 🔗 [Portfolio Management System](https://github.com/MertcanKayirici/PortfolioManagementSystem)
 

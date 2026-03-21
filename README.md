@@ -99,7 +99,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/MertcanKayirici">
+  <a href="www.linkedin.com/in/mertcankayirici">
     <img src="https://img.shields.io/badge/LinkedIn-Mertcan%20Kay%C4%B1r%C4%B1c%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

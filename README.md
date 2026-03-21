@@ -50,7 +50,7 @@
 
 ## 🚀 Featured Projects
 
-### 💰 Mini Financial Reporting System
+### 💰 Mini Financial Reporting System — Financial Tracking & Analytics
 
 ✨ Financial tracking system with dashboard analytics  
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🌐 Portfolio Management System
+### 🌐 Portfolio Management System — Dynamic Admin Panel
 
 ✨ Dynamic portfolio system with admin panel  
 
@@ -89,7 +89,7 @@
 
 ## 🎯 Current Focus
 
-- 🧩 Building scalable backend systems  
+- 🧩 Building scalable backend systems (ASP.NET & SQL Server)  
 - 📊 Data-driven applications  
 - 🚀 Improving full-stack development  
 - 🔥 Creating strong portfolio projects  
@@ -99,7 +99,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mertcankayirici" target="_blank">
+  <a href="https://www.linkedin.com/in/mertcankayirici">
     <img src="https://img.shields.io/badge/LinkedIn-Mertcan%20Kay%C4%B1r%C4%B1c%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -109,8 +109,10 @@
 ## ⚡ Motto
 
 <p align="center">
-  
+
 > “I don’t just write code — I build systems.”
+
+💻 Passionate about turning ideas into real-world applications
 
 </p>
 

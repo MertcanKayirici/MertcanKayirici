@@ -7,14 +7,14 @@
 <h3 align="center">🚀 Backend-Focused Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=ASP.NET+MVC+Developer;C%23+%7C+SQL+Server+%7C+EF;Building+Real-World+Systems;Clean+Code+%26+Scalable+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=ASP.NET+Core+Developer;C%23+%7C+SQL+Server+%7C+EF+Core;Building+Real-World+Systems;Clean+Code+%26+Scalable+Architecture" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-✨ I focus on building **real-world systems**, not just writing code  
+✨ I focus on building real-world systems, not just writing code, with an emphasis on backend architecture and data-driven applications
 🎓 Computer Programming Student (**GPA: 3.91**)  
 🧠 Strong interest in **backend architecture & database design**  
 ⚡ Improving my **full-stack skills (JS + UI)**  
@@ -28,6 +28,7 @@
 ### 🧠 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -64,6 +65,21 @@
 
 ---
 
+### 📦 Stock Tracking System — Inventory & Admin Dashboard
+
+✨ Full-featured stock tracking system with dynamic admin dashboard and real-time data management  
+
+✨ **Key Features:**
+- Product, supplier, and category management  
+- Stock In / Stock Out operations  
+- AJAX-based real-time updates  
+- Audit logging system  
+- Responsive admin dashboard with relational database structure  
+
+🔗 [Stock Tracking System](https://github.com/MertcanKayirici/StockTrackingSystem)
+
+---
+
 ### 🌐 Portfolio Management System — Dynamic Admin Panel
 
 ✨ Dynamic portfolio system with admin panel  
@@ -89,7 +105,7 @@
 
 ## 🎯 Current Focus
 
-- 🧩 Building scalable backend systems (ASP.NET & SQL Server)  
+- 🧩 Building scalable backend systems (ASP.NET Core & SQL Server)
 - 📊 Data-driven applications  
 - 🚀 Improving full-stack development  
 - 🔥 Creating strong portfolio projects  

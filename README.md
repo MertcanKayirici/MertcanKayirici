@@ -51,87 +51,166 @@
 
 ---
 
-## 🚀 Featured Projects (Real Systems)
+## 🚀 Featured Projects
+
+---
 
 ### 🧠 Smart Task Management System — AI-Inspired Productivity Platform
 
-✨ Advanced task management system with **user-based architecture & smart insights**
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/SmartTaskManagementSystem/blob/main/Screenshots/dashboard_overview.gif" width="90%"/>
+</p>
 
-🔹 ASP.NET Core MVC + Identity + Web API + AJAX  
-🔹 User authentication & authorization system  
-🔹 Dynamic task management (real-time updates)  
-🔹 Dashboard with productivity insights  
-🔹 Audit logging system  
-🔹 AI-inspired features (priority suggestion, deadline risk analysis)
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/SmartTaskManagementSystem/blob/main/Screenshots/task_management_flow.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/SmartTaskManagementSystem/blob/main/Screenshots/task_category_integration.gif" width="45%"/>
+</p>
 
-🔗 https://github.com/MertcanKayirici/SmartTaskManagementSystem
+✨ Advanced task management system with smart productivity insights
+
+✨ **Key Features:**
+
+* Identity-based authentication & authorization
+* Real-time task operations with AJAX
+* Productivity dashboard & insights
+* Audit logging system
+* AI-inspired priority & deadline analysis
+
+🔗 [Smart Task Management System](https://github.com/MertcanKayirici/SmartTaskManagementSystem)
 
 ---
 
 ### 🏢 Mini ERP System — Enterprise Resource Planning Core
 
-✨ Modular business system simulating real ERP logic  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/assets/demo/test_engine_run.gif" width="90%"/>
+</p>
 
-🔹 Multi-module architecture (products, stock, management)  
-🔹 Relational database design  
-🔹 CRUD + business logic integration  
-🔹 Scalable system foundation  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/system_architecture.png" width="90%"/>
+</p>
 
-🔗 https://github.com/MertcanKayirici/Mini-ERP-System
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/data_flow.png" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/lifecycle.png" width="45%"/>
+</p>
+
+✨ Modular ERP-like system simulating real business processes
+
+✨ **Key Features:**
+
+* Multi-module system architecture
+* Product & stock management
+* Business logic integration
+* Relational database design
+
+🔗 [Mini ERP System](https://github.com/MertcanKayirici/Mini-ERP-System)
 
 ---
 
 ### 📦 Stock Tracking System — Inventory & Admin Dashboard
 
-✨ Full-featured stock system with admin panel & real-time operations  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/StockTrackingSystem/blob/main/Screenshots/app_overview.gif" width="90%"/>
+</p>
 
-🔹 Product / Supplier / Category management  
-🔹 Stock In / Stock Out operations  
-🔹 AJAX-based dynamic updates  
-🔹 Audit logging system  
-🔹 Dashboard & reporting structure  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/StockTrackingSystem/blob/main/Screenshots/ajax_live_update.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/StockTrackingSystem/blob/main/Screenshots/stock_movement_create.gif" width="45%"/>
+</p>
 
-🔗 https://github.com/MertcanKayirici/StockTrackingSystem
+✨ Full-featured stock tracking system with dynamic admin panel
+
+✨ **Key Features:**
+
+* Product, supplier, category management
+* Stock In / Stock Out operations
+* AJAX-based real-time updates
+* Audit logging system
+* Admin dashboard
+
+🔗 [Stock Tracking System](https://github.com/MertcanKayirici/StockTrackingSystem)
 
 ---
 
-### 💰 Mini Financial Reporting System — Financial Analytics
+### 💰 Mini Financial Reporting System — Financial Tracking & Analytics
 
-✨ Financial tracking system with analytical dashboard  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/MiniFinansRaporlama/blob/main/Screenshots/after/dashboard_overview.gif" width="90%"/>
+</p>
 
-🔹 Income & Expense tracking  
-🔹 Chart.js dashboard visualization  
-🔹 Advanced filtering system  
-🔹 Data-driven architecture  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/MiniFinansRaporlama/blob/main/Screenshots/after/export_pdf.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/MiniFinansRaporlama/blob/main/Screenshots/after/dashboard_filter.gif" width="45%"/>
+</p>
 
-🔗 https://github.com/MertcanKayirici/MiniFinansRaporlama
+✨ Financial tracking system with dashboard analytics
+
+✨ **Key Features:**
+
+* Income & Expense tracking with real-time updates
+* Interactive financial dashboard (Chart.js)
+* Advanced filtering (date & category)
+* Structured relational database design
+
+🔗 [Mini Financial Reporting System](https://github.com/MertcanKayirici/MiniFinansRaporlama)
 
 ---
 
 ### 🌐 Portfolio Management System — Dynamic Admin Panel
 
-✨ Content management system with admin control  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/PortfolioManagementSystem/blob/master/Screenshots/Portfolio_Admin_Login.gif" width="90%"/>
+</p>
 
-🔹 Authentication system  
-🔹 Full CRUD operations  
-🔹 Dynamic dashboard  
-🔹 Real-time content updates  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/PortfolioManagementSystem/blob/master/Screenshots/Portfolio_Admin_Genel.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/PortfolioManagementSystem/blob/master/Screenshots/Portfolio_Admin_Icerik.gif" width="45%"/>
+</p>
+✨ Dynamic portfolio system with admin panel
 
-🔗 https://github.com/MertcanKayirici/PortfolioManagementSystem
+✨ **Key Features:**
+
+* Authentication system with secure login
+* Full CRUD operations
+* Dynamic admin dashboard
+* Real-time content management
+
+🔗 [Portfolio Management System](https://github.com/MertcanKayirici/PortfolioManagementSystem)
 
 ---
 
-### 🎓 Student Systems (Multi-Platform Development)
+### 🎓 Student Grade Systems — Multi-Platform Implementation
 
-✨ Same system built across different technologies  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-PHP/blob/main/Student-Grade-System-PHP/assets/screenshots/dashboard_overview.gif" width="90%"/>
+</p>
 
-🔹 C# version (desktop/backend logic)  
-🔹 PHP version (web-based system)  
-🔹 Excel VBA version (automation logic)  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-PHP/blob/main/Student-Grade-System-PHP/assets/screenshots/ajax_filtering.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-PHP/blob/main/Student-Grade-System-PHP/assets/screenshots/export_txt_pdf.gif" width="45%"/>
+</p>
 
-🔗 https://github.com/MertcanKayirici/Student-Grade-System  
-🔗 https://github.com/MertcanKayirici/Student-Grade-System-PHP  
-🔗 https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA  
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA/blob/master/gifs/navigation-pages.gif" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA/blob/master/gifs/course-search.gif" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA/blob/master/gifs/save-data-form.gif" width="45%"/>
+</p>
+
+✨ Same system implemented across multiple technologies
+
+✨ **Key Features:**
+
+* C# backend implementation
+* PHP web version
+* Excel VBA automation version
+
+🔗 [C# Version](https://github.com/MertcanKayirici/Student-Grade-System)
+🔗 [PHP Version](https://github.com/MertcanKayirici/Student-Grade-System-PHP)
+🔗 [Excel VBA Version](https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA)
 
 ---
 

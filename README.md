@@ -1,25 +1,26 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=200&section=header&text=Mertcan%20Kayırıcı&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=220&section=header&text=Mertcan%20Kayırıcı&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Mertcan</h1>
 <h3 align="center">🚀 Backend-Focused Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=ASP.NET+Core+Developer;C%23+%7C+SQL+Server+%7C+EF+Core;Building+Real-World+Systems;Clean+Code+%26+Scalable+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+Web+API+Developer;C%23+%7C+SQL+Server+%7C+EF+Core;Building+Real-World+Systems;Clean+Architecture+%26+Scalable+Design;From+Data+to+Production+Ready+Apps" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-✨ I focus on building real-world systems, not just writing code, with an emphasis on backend architecture and data-driven applications
+✨ I build **real-world systems**, not just projects  
 🎓 Computer Programming Student (**GPA: 3.91**)  
-🧠 Strong interest in **backend architecture & database design**  
-⚡ Improving my **full-stack skills (JS + UI)**  
-💡 I enjoy designing systems with clean architecture and scalable structure  
-🎯 Goal: Become a **high-level Backend / Full Stack Developer**
+🧠 Focused on **Backend Architecture & Database Design**  
+⚙️ Experienced in **ASP.NET Core MVC, Web API, EF Core**  
+📊 Strong in **relational database modeling & data-driven systems**  
+⚡ Improving **full-stack (JavaScript + UI/UX)**  
+
+🎯 **Goal:** Become a high-level **Backend / Full Stack Developer**
 
 ---
 
@@ -28,6 +29,7 @@
 ### 🧠 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
@@ -49,48 +51,87 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Real Systems)
 
-### 💰 Mini Financial Reporting System — Financial Tracking & Analytics
+### 🧠 Smart Task Management System — AI-Inspired Productivity Platform
 
-✨ Financial tracking system with dashboard analytics  
+✨ Advanced task management system with **user-based architecture & smart insights**
 
-✨ **Key Features:**
-- Income & Expense tracking with real-time updates  
-- Interactive financial dashboard (Chart.js)  
-- Advanced filtering (date & category)  
-- Structured relational database design  
+🔹 ASP.NET Core MVC + Identity + Web API + AJAX  
+🔹 User authentication & authorization system  
+🔹 Dynamic task management (real-time updates)  
+🔹 Dashboard with productivity insights  
+🔹 Audit logging system  
+🔹 AI-inspired features (priority suggestion, deadline risk analysis)
 
-🔗 [Mini Financial Reporting System](https://github.com/MertcanKayirici/MiniFinansRaporlama)
+🔗 https://github.com/MertcanKayirici/SmartTaskManagementSystem
+
+---
+
+### 🏢 Mini ERP System — Enterprise Resource Planning Core
+
+✨ Modular business system simulating real ERP logic  
+
+🔹 Multi-module architecture (products, stock, management)  
+🔹 Relational database design  
+🔹 CRUD + business logic integration  
+🔹 Scalable system foundation  
+
+🔗 https://github.com/MertcanKayirici/Mini-ERP-System
 
 ---
 
 ### 📦 Stock Tracking System — Inventory & Admin Dashboard
 
-✨ Full-featured stock tracking system with dynamic admin dashboard and real-time data management  
+✨ Full-featured stock system with admin panel & real-time operations  
 
-✨ **Key Features:**
-- Product, supplier, and category management  
-- Stock In / Stock Out operations  
-- AJAX-based real-time updates  
-- Audit logging system  
-- Responsive admin dashboard with relational database structure  
+🔹 Product / Supplier / Category management  
+🔹 Stock In / Stock Out operations  
+🔹 AJAX-based dynamic updates  
+🔹 Audit logging system  
+🔹 Dashboard & reporting structure  
 
-🔗 [Stock Tracking System](https://github.com/MertcanKayirici/StockTrackingSystem)
+🔗 https://github.com/MertcanKayirici/StockTrackingSystem
+
+---
+
+### 💰 Mini Financial Reporting System — Financial Analytics
+
+✨ Financial tracking system with analytical dashboard  
+
+🔹 Income & Expense tracking  
+🔹 Chart.js dashboard visualization  
+🔹 Advanced filtering system  
+🔹 Data-driven architecture  
+
+🔗 https://github.com/MertcanKayirici/MiniFinansRaporlama
 
 ---
 
 ### 🌐 Portfolio Management System — Dynamic Admin Panel
 
-✨ Dynamic portfolio system with admin panel  
+✨ Content management system with admin control  
 
-✨ **Key Features:**
-- Authentication system with secure login  
-- Full CRUD operations  
-- Dynamic admin dashboard  
-- Real-time content management  
+🔹 Authentication system  
+🔹 Full CRUD operations  
+🔹 Dynamic dashboard  
+🔹 Real-time content updates  
 
-🔗 [Portfolio Management System](https://github.com/MertcanKayirici/PortfolioManagementSystem)
+🔗 https://github.com/MertcanKayirici/PortfolioManagementSystem
+
+---
+
+### 🎓 Student Systems (Multi-Platform Development)
+
+✨ Same system built across different technologies  
+
+🔹 C# version (desktop/backend logic)  
+🔹 PHP version (web-based system)  
+🔹 Excel VBA version (automation logic)  
+
+🔗 https://github.com/MertcanKayirici/Student-Grade-System  
+🔗 https://github.com/MertcanKayirici/Student-Grade-System-PHP  
+🔗 https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA  
 
 ---
 
@@ -105,10 +146,11 @@
 
 ## 🎯 Current Focus
 
-- 🧩 Building scalable backend systems (ASP.NET Core & SQL Server)
+- 🧩 Scalable backend systems (ASP.NET Core & SQL Server)
+- 🔗 API-driven architecture & AJAX systems  
 - 📊 Data-driven applications  
-- 🚀 Improving full-stack development  
-- 🔥 Creating strong portfolio projects  
+- 🎨 UI/UX improvements for real-world usability  
+- 🚀 Building production-ready portfolio projects  
 
 ---
 
@@ -116,7 +158,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mertcankayirici">
-    <img src="https://img.shields.io/badge/LinkedIn-Mertcan%20Kay%C4%B1r%C4%B1c%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mertcan%20Kayırıcı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -126,9 +168,9 @@
 
 <p align="center">
 
-> “I don’t just write code — I build systems.”
+> “I don’t just write code — I design systems.”
 
-💻 Passionate about turning ideas into real-world applications
+💻 Turning complex ideas into scalable, real-world applications
 
 </p>
 
@@ -136,5 +178,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:4f46e5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0f172a&height=120&section=footer"/>
 </p>

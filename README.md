@@ -81,20 +81,25 @@
 ---
 
 ### 🏢 Mini ERP System — Enterprise Resource Planning Core
-
+#### 🎬 Execution Engine Demo
 <p align="center">
   <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/assets/demo/test_engine_run.gif" width="90%"/>
 </p>
 
+#### 🧠 System Architecture
 <p align="center">
   <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/system_architecture.png" width="90%"/>
 </p>
 
+#### 🔄 Data Flow 
 <p align="center">
   <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/data_flow.png" width="45%"/>
-  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/lifecycle.png" width="45%"/>
 </p>
 
+#### 🔁 Lifecycle
+<p align="center">
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/lifecycle.png" width="90%"/>
+</p>
 ✨ Modular ERP-like system simulating real business processes
 
 ✨ **Key Features:**
@@ -181,7 +186,7 @@
 ---
 
 ### 🎓 Student Grade Systems — Multi-Platform Implementation
-
+#### 🌐 PHP Web Version
 <p align="center">
   <img src="https://github.com/MertcanKayirici/Student-Grade-System-PHP/blob/main/Student-Grade-System-PHP/assets/screenshots/dashboard_overview.gif" width="90%"/>
 </p>
@@ -191,6 +196,7 @@
   <img src="https://github.com/MertcanKayirici/Student-Grade-System-PHP/blob/main/Student-Grade-System-PHP/assets/screenshots/export_txt_pdf.gif" width="45%"/>
 </p>
 
+#### 📊 Excel VBA Version
 <p align="center">
   <img src="https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA/blob/master/gifs/navigation-pages.gif" width="90%"/>
 </p>

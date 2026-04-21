@@ -12,6 +12,7 @@
 ---
 
 ## 🌌 About Me
+> Backend-focused developer who builds real-world, scalable systems with clean architecture and strong data-driven design — not just CRUD applications.
 
 ✨ I build **real-world systems**, not just projects  
 🎓 Computer Programming Student (**GPA: 3.91**)  
@@ -20,7 +21,24 @@
 📊 Strong in **relational database modeling & data-driven systems**  
 ⚡ Improving **full-stack (JavaScript + UI/UX)**  
 
+💡 I focus on backend systems that handle real-world complexity such as state management, data consistency, and scalability
+
 🎯 **Goal:** Become a high-level **Backend / Full Stack Developer**
+
+---
+
+## 🧠 Architecture Mindset
+
+💡 I don’t just build features — I design systems with real-world architecture.
+
+- Layered Architecture (Controller → Service → Repository)
+- Separation of Concerns
+- Scalable and maintainable code structure
+- Relational database design (ER modeling)
+- Transaction-based system thinking
+
+🧩 I always ask:
+> “Would this system actually work in production?”
 
 ---
 
@@ -76,6 +94,8 @@
 * Audit logging system
 * AI-inspired priority & deadline analysis
 
+> 💡 Focus: Real-time updates, user-based systems, and interactive dashboards with backend consistency
+
 🔗 [Smart Task Management System](https://github.com/MertcanKayirici/SmartTaskManagementSystem)
 
 ---
@@ -93,7 +113,7 @@
 
 #### 🔄 Data Flow 
 <p align="center">
-  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/data_flow.png" width="45%"/>
+  <img src="https://github.com/MertcanKayirici/Mini-ERP-System/blob/main/docs/diagrams/data_flow.png" width="90%"/>
 </p>
 
 #### 🔁 Lifecycle
@@ -108,6 +128,10 @@
 * Product & stock management
 * Business logic integration
 * Relational database design
+
+> 💡 Engineering Note: Designed a transaction-based system with validation, state control, and recovery mechanisms to simulate real-world ERP behavior
+
+> 💡 Focus: Backend architecture, transaction flow, and system design
 
 🔗 [Mini ERP System](https://github.com/MertcanKayirici/Mini-ERP-System)
 
@@ -172,6 +196,7 @@
   <img src="https://github.com/MertcanKayirici/PortfolioManagementSystem/blob/master/Screenshots/Portfolio_Admin_Genel.gif" width="45%"/>
   <img src="https://github.com/MertcanKayirici/PortfolioManagementSystem/blob/master/Screenshots/Portfolio_Admin_Icerik.gif" width="45%"/>
 </p>
+
 ✨ Dynamic portfolio system with admin panel
 
 ✨ **Key Features:**
@@ -213,6 +238,8 @@
 * C# backend implementation
 * PHP web version
 * Excel VBA automation version
+
+> 💡 Focus: Same business logic implemented across different technologies
 
 🔗 [C# Version](https://github.com/MertcanKayirici/Student-Grade-System)
 🔗 [PHP Version](https://github.com/MertcanKayirici/Student-Grade-System-PHP)

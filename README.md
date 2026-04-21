@@ -241,7 +241,7 @@
 
 > 💡 Focus: Same business logic implemented across different technologies
 
-🔗 [C# Version](https://github.com/MertcanKayirici/Student-Grade-System)
+🔗 [Core System (Shared Logic)](https://github.com/MertcanKayirici/Student-Grade-System)
 🔗 [PHP Version](https://github.com/MertcanKayirici/Student-Grade-System-PHP)
 🔗 [Excel VBA Version](https://github.com/MertcanKayirici/Student-Grade-System-Excel-VBA)
 
